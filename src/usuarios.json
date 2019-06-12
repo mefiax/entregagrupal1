@@ -1,0 +1,30 @@
+[
+    {
+        "cedula": 111,
+        "nombre": "Admin",
+        "correo": "eladmin@potomail.com",
+        "telefono": 5,
+        "tipo": "coordinador"
+    },
+    {
+        "cedula": 112,
+        "nombre": "Ana",
+        "correo": "a",
+        "telefono": 2,
+        "tipo": "aspirante"
+    },
+    {
+        "cedula": 123,
+        "nombre": "Tiburoncin",
+        "correo": "t",
+        "telefono": 1,
+        "tipo": "aspirante"
+    },
+    {
+        "cedula": 211,
+        "nombre": "CJ",
+        "correo": "cj",
+        "telefono": 3,
+        "tipo": "aspirante"
+    }
+]
